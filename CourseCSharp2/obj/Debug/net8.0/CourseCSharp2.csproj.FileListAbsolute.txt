@@ -1,0 +1,14 @@
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.exe
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.deps.json
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.runtimeconfig.json
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.dll
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.pdb
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.AssemblyInfoInputs.cache
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.AssemblyInfo.cs
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.dll
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\refint\CourseCSharp2.dll
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.pdb
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.genruntimeconfig.cache
+C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\ref\CourseCSharp2.dll
