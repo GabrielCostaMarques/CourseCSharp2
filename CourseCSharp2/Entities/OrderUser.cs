@@ -11,23 +11,7 @@ namespace CourseCSharp2.Entities
     {
         public void OrderShow()
         {
-            Order order = new Order
-            {
-                Id = 1,
-                Moment = DateTime.Now,
-                Status = OrderStatus.PendingPayment
-            };
-
-            Console.WriteLine(order);
-
-
-            string txt = OrderStatus.PendingPayment.ToString();
-            OrderStatus status = Enum.Parse<OrderStatus>("Delivered");
-
-
-            Console.WriteLine(status);
-
-            Console.WriteLine(txt);
+           
         }
     }
 }

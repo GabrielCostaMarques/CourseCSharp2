@@ -25,7 +25,7 @@ namespace CourseCSharp2.EntitiesPost
             post1.AddComment(c2);
 
 
-            Console.WriteLine(post1);
+            Console.WriteLine(post1.ToString());
         }
 
 
