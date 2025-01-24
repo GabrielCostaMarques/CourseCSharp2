@@ -1,7 +1,7 @@
-﻿using CourseCSharp2.Entities;
-using CourseCSharp2.Entities.Enums;
-using System;
-using System.Reflection.Metadata;
+﻿
+using CourseCSharp2.EntitiesPost;
+using CourseCSharp2.EntitiesWorker;
+
 
 namespace CourseCSharp2
 {
@@ -10,8 +10,8 @@ namespace CourseCSharp2
         static void Main(string[] args)
         {
 
-            OrderUser orderUser = new OrderUser();
-            orderUser.OrderShow();
+            PostUser user = new PostUser();
+            user.PostShow();
         }
     }
 }

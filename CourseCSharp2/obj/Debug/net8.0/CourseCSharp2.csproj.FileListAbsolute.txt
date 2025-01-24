@@ -12,3 +12,18 @@ C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0
 C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.pdb
 C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.genruntimeconfig.cache
 C:\Users\gmarques\Documents\Gabriel\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\ref\CourseCSharp2.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.sourcelink.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\refint\CourseCSharp2.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\bin\Debug\net8.0\CourseCSharp2.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\CourseCSharp2.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\CourseCSharp2\CourseCSharp2\obj\Debug\net8.0\ref\CourseCSharp2.dll
