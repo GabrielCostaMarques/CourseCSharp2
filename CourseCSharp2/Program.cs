@@ -1,4 +1,5 @@
 ﻿
+using CourseCSharp2.Entities;
 using CourseCSharp2.EntitiesPost;
 using CourseCSharp2.EntitiesWorker;
 
@@ -10,8 +11,8 @@ namespace CourseCSharp2
         static void Main(string[] args)
         {
 
-            PostUser user = new PostUser();
-            user.PostShow();
+            OrderUser user = new OrderUser();
+            user.OrderShow();
         }
     }
 }
