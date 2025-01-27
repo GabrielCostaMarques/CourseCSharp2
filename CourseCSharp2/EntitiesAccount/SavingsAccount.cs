@@ -21,5 +21,12 @@ namespace CourseCSharp2.EntitiesAccount
         {
             Balance += Balance * InterestRate;
         }
+
+        public override void WithDraw(double amount)
+        {
+            //reaproveitando a função da superclasse e adicionando 2 reais
+            base.WithDraw(amount);
+            Balance -= 2.0;
+        }
     }
 }

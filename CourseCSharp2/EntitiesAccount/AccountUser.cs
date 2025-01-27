@@ -10,40 +10,50 @@ namespace CourseCSharp2.EntitiesAccount
     {
         public void AccountShow()
         {
-            Account account = new Account(1001, "Alex", 0.0);
-            BusinessAccount businessAccount = new BusinessAccount(1002, "Maria", 0.0, 500);
+            //Account account = new Account(1001, "Alex", 0.0);
+            //BusinessAccount businessAccount = new BusinessAccount(1002, "Maria", 0.0, 500);
 
-            //UPCASTING
+            ////UPCASTING
 
-            Account account1 = businessAccount;
-            Account account2 = new BusinessAccount(1003, "BOB", 200, 200);
-            Account account3 = new SavingsAccount(1004, "Ana", 0, 0.01);
-
-
-            //DOWNCASTING
+            //Account account1 = businessAccount;
+            //Account account2 = new BusinessAccount(1003, "BOB", 200, 200);
+            //Account account3 = new SavingsAccount(1004, "Ana", 0, 0.01);
 
 
-            BusinessAccount account4 = (BusinessAccount)account2;
-            account4.Loan(100);
-
-            //BusinessAccount businessAccount5 = (BusinessAccount)account3;
-
-            if (account3 is BusinessAccount)
-            {
-                //BusinessAccount account5 = (BusinessAccount)account3;
-                BusinessAccount account5 = account3 as BusinessAccount;
-                account5.Loan(200);
-            Console.WriteLine("Loan");
-            }
+            ////DOWNCASTING
 
 
+            //BusinessAccount account4 = (BusinessAccount)account2;
+            //account4.Loan(100);
 
-            if (account3 is SavingsAccount)
-            {
-                SavingsAccount account5 = (SavingsAccount)account3;
-                account5.UpdateBalance();
-                Console.WriteLine("Update");
-            }
+            ////BusinessAccount businessAccount5 = (BusinessAccount)account3;
+
+            //if (account3 is BusinessAccount)
+            //{
+            //    //BusinessAccount account5 = (BusinessAccount)account3;
+            //    BusinessAccount account5 = account3 as BusinessAccount;
+            //    account5.Loan(200);
+            //Console.WriteLine("Loan");
+            //}
+
+
+
+            //if (account3 is SavingsAccount)
+            //{
+            //    SavingsAccount account5 = (SavingsAccount)account3;
+            //    account5.UpdateBalance();
+            //    Console.WriteLine("Update");
+            //}
+
+
+            Account account = new Account(1001,"Alex",500);
+            Account account1 = new SavingsAccount(1002,"Ana",500,0.01);
+
+            account.WithDraw(10);
+            account1.WithDraw(10);
+
+            Console.WriteLine(account.Balance);
+            Console.WriteLine(account1.Balance);
         }
     }
 }
