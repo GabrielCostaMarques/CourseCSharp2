@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CourseCSharp2.EntitiesAccount
 {
-    internal class SavingsAccount : Account
+    //sealed serve para que a classe nao seja herdada (tenha uma subclasse)
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -22,7 +23,8 @@ namespace CourseCSharp2.EntitiesAccount
             Balance += Balance * InterestRate;
         }
 
-        public override void WithDraw(double amount)
+        //selando o método para ele nao ser sobreposto novamente em outra subclasse'
+        public sealed override void WithDraw(double amount)
         {
             //reaproveitando a função da superclasse e adicionando 2 reais
             base.WithDraw(amount);

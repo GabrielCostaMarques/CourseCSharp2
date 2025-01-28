@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesaccount\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesemployee\\employeeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesemployee\\employeeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesaccount\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesaccount\\accountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesemployee\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesemployee\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesaccount\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesaccount\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\coursecsharp2\\coursecsharp2\\entitiesemployee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E750FEA4-0959-449A-834B-A5B14A51AE30}|CourseCSharp2\\CourseCSharp2.csproj|solutionrelative:coursecsharp2\\entitiesemployee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "EmployeeUser.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\EmployeeUser.cs",
+              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesEmployee\\EmployeeUser.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\EmployeeUser.cs",
+              "RelativeToolTip": "CourseCSharp2\\EntitiesEmployee\\EmployeeUser.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:28:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutSourcedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\OutSourcedEmployee.cs",
+              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesEmployee\\OutSourcedEmployee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\OutSourcedEmployee.cs",
+              "RelativeToolTip": "CourseCSharp2\\EntitiesEmployee\\OutSourcedEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:17:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\Employee.cs",
+              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesEmployee\\Employee.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesEmployee\\Employee.cs",
+              "RelativeToolTip": "CourseCSharp2\\EntitiesEmployee\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:14:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountUser.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\AccountUser.cs",
               "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesAccount\\AccountUser.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\AccountUser.cs",
               "RelativeToolTip": "CourseCSharp2\\EntitiesAccount\\AccountUser.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwDEAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T22:59:32.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SavingsAccount.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\SavingsAccount.cs",
-              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesAccount\\SavingsAccount.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\SavingsAccount.cs",
-              "RelativeToolTip": "CourseCSharp2\\EntitiesAccount\\SavingsAccount.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBoAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T22:55:37.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusinessAccount.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\BusinessAccount.cs",
-              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesAccount\\BusinessAccount.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\BusinessAccount.cs",
-              "RelativeToolTip": "CourseCSharp2\\EntitiesAccount\\BusinessAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:47:48.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\Account.cs",
-              "RelativeDocumentMoniker": "CourseCSharp2\\EntitiesAccount\\Account.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\EntitiesAccount\\Account.cs",
-              "RelativeToolTip": "CourseCSharp2\\EntitiesAccount\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:45:28.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\Program.cs",
               "RelativeDocumentMoniker": "CourseCSharp2\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\CourseCSharp2\\CourseCSharp2\\Program.cs",
               "RelativeToolTip": "CourseCSharp2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:22:02.061Z"
+              "WhenOpened": "2025-01-27T21:22:02.061Z",
+              "EditorCaption": ""
             }
           ]
         }
