@@ -45,15 +45,37 @@ namespace CourseCSharp2.EntitiesAccount
             //    Console.WriteLine("Update");
             //}
 
+            //Mesmo a classe sendo abstrata, podemos instanciar uma lista dessa classe
+            List<Account> list = new List<Account>();
 
-            Account account = new Account(1001,"Alex",500);
-            Account account1 = new SavingsAccount(1002,"Ana",500,0.01);
+            list.Add(new SavingsAccount(1001,"Alex",500,0.01));
+            list.Add(new SavingsAccount(1003,"Bob",500,0.01));
+            list.Add(new BusinessAccount(1002,"MAria",500,400));
+            list.Add(new BusinessAccount(1004,"Anna",500,500));
 
-            account.WithDraw(10);
-            account1.WithDraw(10);
+            double sum = 0;
 
-            Console.WriteLine(account.Balance);
-            Console.WriteLine(account1.Balance);
+            foreach (Account account in list)
+            {
+                sum += account.Balance;
+            }
+
+            Console.WriteLine("Total Balance - "+sum.ToString());
+
+            foreach (Account account in list)
+            {
+                account.WithDraw(10);
+            }
+            foreach (Account account in list)
+            {
+                Console.WriteLine("Updated balance for account:" +
+                    account.Number +
+                    ": "+
+                    account.Balance);
+
+
+
+            }
         }
     }
 }
